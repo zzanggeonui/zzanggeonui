@@ -40,7 +40,6 @@
 
 ## Team Collaboration Tool<br/>
 [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://slack.com/intl/ko-kr/)
-[![Flow Badge](https://img.shields.io/badge/Flow-6236FF?style=flat&logo=Flow&logoColor=white)](https://flow.team/kr/index)
 
 ## AWS<br/>
 [![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/ko/console/)
