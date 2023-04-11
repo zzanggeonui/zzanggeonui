@@ -69,3 +69,7 @@
 
 ## [Streamlit K-darma Analyze Web Dashboard]<br/>
 [Streamlit K-darma Analyze Web Dashboard]: https://github.com/zzanggeonui/streamlit_drama
+
+## [Streamlit Flu prediction Web Dashboard]<br/>
+[Streamlit Flu prediction Web Dashboard]: https://github.com/zzanggeonui/streamlit_flu
+
