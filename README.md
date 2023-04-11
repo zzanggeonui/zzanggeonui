@@ -61,10 +61,10 @@
 ## Project
 
 ## [Haruiet Project]<br/>
-[Haruiet]: #주소
+[Haruiet]: https://github.com/V3690/AlcoholApp
 
 ## [Jooinjang's secret Project]<br/>
-[Jooinjang's secret Project]: #주소
+[Jooinjang's secret Project]: https://github.com/subProjectDiet/diet_android
 
 ## [Streamlit K-darma Analyze Web Dashboard]<br/>
 [Streamlit K-darma Analyze Web Dashboard]: https://github.com/zzanggeonui/streamlit_drama
