@@ -63,6 +63,10 @@
 ## [Haruiet Project]<br/>
 [Haruiet]: https://github.com/subProjectDiet/diet_android
 
+
+## [Jooinjang's secret Project]<br/>
+[Jooinjang's secret Project]: (https://github.com/subProjectDiet/diet_android
+
 ## [Jooinjang's secret Project]<br/>
 [Jooinjang's secret Project]: https://github.com/V3690/AlcoholApp
 
