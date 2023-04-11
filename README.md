@@ -14,7 +14,7 @@
 
 ## Framework<br/>
 [![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
-[![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/ko/)
+
 
 ## Library<br/>
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)](https://numpy.org/install/)
